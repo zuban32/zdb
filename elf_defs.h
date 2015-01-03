@@ -1,0 +1,5 @@
+#ifndef ELF_DEFS_H_INCLUDED
+#define ELF_DEFS_H_INCLUDED
+
+
+#endif // ELF_DEFS_H_INCLUDED
